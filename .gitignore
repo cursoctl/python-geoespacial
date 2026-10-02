@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.venv/
+venv/
+env/
+
+# Dados (não versionar)
+dados/raw/*
+dados/interim/*
+dados/processed/*
+!dados/**/.gitkeep
+
+# Saídas
+saida/*
+!saida/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Segredos
+.env
+*.dump
+*.sql.gz
+
