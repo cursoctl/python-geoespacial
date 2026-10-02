@@ -19,9 +19,7 @@ Repositório de estudos do curso **Python 3 para Geoprocessamento** — do zero 
 | 10 | Portfólio: evidência profissional | ⏳ |
 
 ## 🗂️ Estrutura
-
-
-├── evidencias/ # entregas por módulo (passaporte de competências)
+── evidencias/ # entregas por módulo (passaporte de competências)
 ├── dados/ # raw, interim, processed
 ├── notebooks/ # exploração e aprendizado
 ├── src/ # código de produção
@@ -29,7 +27,6 @@ Repositório de estudos do curso **Python 3 para Geoprocessamento** — do zero 
 ├── saida/ # resultados gerados
 ├── testes/ # testes automatizados
 └── docs/ # documentação e decisões
-
 ## 🚀 Ambiente
 
 - Python 3.11+ via Miniconda
