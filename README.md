@@ -1,6 +1,6 @@
 # Curso Python 3 para Geoprocessamento
 
-Repositório de estudos do curso **Python 3 para Geoprocessamento** — do zero ao portfólio profissional.
+Repositório de estudos do curso **Python 3 para Geoprocessamento**  profissional.
 
 ## 📚 Progresso
 
@@ -19,14 +19,22 @@ Repositório de estudos do curso **Python 3 para Geoprocessamento** — do zero 
 | 10 | Portfólio: evidência profissional | ⏳ |
 
 ## 🗂️ Estrutura
-── evidencias/ # entregas por módulo (passaporte de competências)
-├── dados/ # raw, interim, processed
-├── notebooks/ # exploração e aprendizado
-├── src/ # código de produção
-├── scripts/ # utilitários
-├── saida/ # resultados gerados
-├── testes/ # testes automatizados
-└── docs/ # documentação e decisões
+── evidencias/
+# entregas por módulo (passaporte de competências)
+├── dados/ 
+# raw, interim, processed
+├── notebooks/
+# exploração e aprendizado
+├── src/ 
+# código de produção
+├── scripts/ 
+# utilitários
+├── saida/ 
+# resultados gerados
+├── testes/
+# testes automatizados
+└── docs/
+# documentação e decisões
 ## 🚀 Ambiente
 
 - Python 3.11+ via Miniconda
@@ -34,12 +42,7 @@ Repositório de estudos do curso **Python 3 para Geoprocessamento** — do zero 
 - QGIS 3.x
 - WSL2 / Ubuntu (Windows 11)
 
-## 📖 Como estudar
-
-Cada módulo segue o ciclo: **Teoria → Exemplo → Exercício guiado → Exercício sozinho → Desafio → Validação → Mini-projeto**.
-
-Ver `docs/como-estudar.md`.
 
 ## 🎯 Objetivo final
 
-Portfólio com 5 projetos geoespaciais completos, testados, documentados e publicados.
+Portfólio e apredizado em Python-geo
